@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaspar dos Santos Ferreira Junior</h1>
-<h3 align="center">👋 Network Engineer by Profession , Scrum Master by Culture and DevOps Student</h3>
+<h3 align="center">Network Engineer by Profession , Scrum Master by Culture and DevOps Student</h3>
 
 - 🔭 I’m currently working on **Network and Security projects**
 

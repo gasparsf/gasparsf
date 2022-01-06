@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaspar dos Santos Ferreira Junior</h1>
+<h1 align="center">Hi 👋, I'm Gaspar Ferreira</h1>
 <h3 align="center">Network Engineer by Profession , Scrum Master by Culture and a DevOps Student</h3>
 
 - 🔭 I’m currently working on **Network and Security projects**
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/gasparferreira/](linkedin.com/in/gasparferreira/)
 
-- ⚡ Fun fact **Love cooking!**
+- ⚡ Fun fact **I Love cooking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
